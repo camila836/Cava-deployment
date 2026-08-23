@@ -5,9 +5,9 @@ Artefacto público de la versión funcional actual de CAVA.
 - Fecha de generación: 2026-08-23 (America/Bogota)
 - Repositorio de origen: `camila836/Cava` (privado)
 - Rama de origen: `feature/panel-tienda-unificada`
-- Commit de origen: `d09ad9206a52c28dd66845a266ff6e5a7d57e284`
+- Commit de origen: `429bd3f2579bb87750a0281f03ecfb58dbaf3510`
 - Artefacto: `Cava.war`
-- SHA-256: `43b6877cd5c2c407ccfe48d785483cb82ae6b229bf5f364430828fcc26526ee2`
+- SHA-256: `433f0ab0385994780c20e8f0388516b67d3c1d1c3ce4152ae4fd0be05ea27581`
 
 ## Funcionalidades incluidas
 
@@ -17,6 +17,7 @@ Artefacto público de la versión funcional actual de CAVA.
 - Página Servicios y navegación pública unificada.
 - Panel y flujos funcionales existentes de administración.
 - Validaciones actualizadas de productos y referencias PNG seguras.
+- Descriptor JNDI sanitizado para `jdbc/CavaDS`, con valores suministrados en tiempo de ejecución.
 
 > **Pendiente de despliegue manual en Azure.** Este repositorio no está conectado con Azure y publicar este artefacto no realiza ningún despliegue.
 
